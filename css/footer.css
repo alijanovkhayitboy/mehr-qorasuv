@@ -1,0 +1,88 @@
+.sectclock{
+  padding: 0 20px;
+}
+
+.footerimg{
+  width: 40px;
+  height: 40px;
+}
+
+.clock {
+  width: 100%;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 25px;
+  font-weight: bold;
+  color: rgb(0, 170, 255);
+  background-color: #333;
+  padding: 10px 20px;
+  border-radius: 5px;
+  display: inline-block;
+  text-align: center;
+}
+
+
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 30px 0;
+  }
+  
+  .container {
+    max-width: 1200px;
+    margin: auto;
+  }
+  
+  h3 {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  p {
+    line-height: 1.5;
+    margin-bottom: 20px;
+  }
+  
+  ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  ul li {
+    margin-bottom: 10px;
+  }
+  
+  ul li a {
+    color: #fff;
+  }
+  
+  .social-media li {
+    display: inline-block;
+    margin-right: 10px;
+  }
+  
+  .social-media li:last-child {
+    margin-right: 0;
+  }
+  
+  .social-media li a {
+    color: #fff;
+    font-size: 18px;
+    transition: all 0.3s ease-in-out;
+  }
+  
+  .social-media li a:hover {
+    transform: scale(1.1);
+  }
+  
+  @media only screen and (max-width: 767px) {
+    footer{
+      padding: 0 10px;
+      background: #333;
+    }
+    .col-sm-12 {
+      width: 100%;
+      margin-bottom: 20px;
+    }
+  }
+  

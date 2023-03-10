@@ -1,0 +1,57 @@
+.container3{
+    .h3{
+        text-align: center;
+        font-weight: 600;
+    }
+}
+.container4{
+    .h3{
+        text-align: center;
+        font-weight: 600;
+    }
+}
+.container5{
+    .h3{
+        text-align: center;
+        font-weight: 600;
+    }
+}
+.container6{
+    .h3{
+        text-align: center;
+        font-weight: 600;
+    }
+}
+.container7{
+    .h3{
+        text-align: center;
+        font-weight: 600;
+    }
+    .namozkitobi{
+        list-style: none;
+    }
+    .quran{
+        
+        text-align: center;
+        // list-style: none;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+        audio{
+            width: 100%;
+        }
+
+    }
+}
+.footer{
+    .footerlist{
+        
+        list-style: none;
+    }
+    .footerlistmain{
+        list-style: none;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+}
